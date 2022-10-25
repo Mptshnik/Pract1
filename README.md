@@ -2,20 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 ПРАКТИЧЕСКАЯ РАБОТА №1
+
+
 Цель работы: ознакомиться с основными виджетами. Применить полученные знания. Создать 3 макета с использованием Flutter.
 Ход работы:
 В начале работы в файл pubspec.yaml была добавлена библиотека для работы с картинками в формате svg. Также был добавлен шрифт PlusJakartaSans. По ходу работы в данный файл добавлялась информация о расположении картинок.
